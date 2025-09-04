@@ -99,8 +99,3 @@ There are two main folders `public` & `src` and some other configuration related
     - partials → SCSS partial files
     - app.scss → The main SCSS file which is loaded by the application
   - types → Type definations for the application
-
-### Screenshots
-
-![Pofology Dark](public/screenshot_01.png)
-![Pofology Dark](public/screenshot_02.png)
